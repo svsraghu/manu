@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: docker-demo
-        image: docker-demo:11.0
+        image: docker-demo:latest
         ports:
         - containerPort: 9090
